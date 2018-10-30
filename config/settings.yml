@@ -2,3 +2,8 @@ l_rails: "http://www.railstutorial.org/"  # link1
 l_michael: "http://www.michaelhartl.com/" #link2
 l_new_rails: "http://news.railstutorial.org/" #link3
 l_ruby_on_rail: "http://rubyonrails.org/" #link4
+max:
+  num_50: 50
+  num_255: 255
+min:
+  num_6: 6
