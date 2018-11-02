@@ -8,6 +8,7 @@ en:
       sample_app: "sample app"
       help: "Help"
       log_in: "Log in"
+      log_out: "log out"
       this_will_sign_up: "This will be a signup page for new users."
       sign_up: "Sign up"
       welcome: "Welcome to the Sample App"
@@ -21,5 +22,10 @@ en:
       this_home_page: "This is the home page for the"
       the_form_conains: "the form conains"
       no_user: "no users"
+      setting: "Settings"
+      profile: "Profile"
+      user: "Users"
+      account: "Account"
+      incalid: "Invalid email/password combination"
     header:
       t_home: "Home"
