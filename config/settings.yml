@@ -2,10 +2,8 @@ l_rails: "http://www.railstutorial.org/"
 l_michael: "http://www.michaelhartl.com/"
 l_new_rails: "http://news.railstutorial.org/"
 l_ruby_on_rail: "http://rubyonrails.org/"
-max:
-  num_50: 50
-  num_255: 255
-min:
-  num_6: 6
+
 num_50: 50
+num_255: 255
+num_6: 6
 num_80: 80

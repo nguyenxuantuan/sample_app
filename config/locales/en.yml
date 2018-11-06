@@ -27,5 +27,8 @@ en:
       user: "Users"
       account: "Account"
       incalid: "Invalid email/password combination"
+      Remember: "Remember me on this computer"
+      Create_my_account: "Create my account"
+      new_user: "New user?"
     header:
       t_home: "Home"
