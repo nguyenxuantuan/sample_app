@@ -1,9 +1,15 @@
-l_rails: "http://www.railstutorial.org/"
-l_michael: "http://www.michaelhartl.com/"
-l_new_rails: "http://news.railstutorial.org/"
 l_ruby_on_rail: "http://rubyonrails.org/"
-
+view:
+  users:
+    edit:
+      l_emails: "http://gravatar.com/emails"
+  layout:
+    footer:
+      l_rails: "http://www.railstutorial.org/"
+      l_michael: "http://www.michaelhartl.com/"
+      l_new_rails: "http://news.railstutorial.org/"
 num_50: 50
 num_255: 255
 num_6: 6
 num_80: 80
+num_10: 10

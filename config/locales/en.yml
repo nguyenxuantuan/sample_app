@@ -1,14 +1,37 @@
 en:
-  sign_up: "Sign up"
+  application_helper:
+    base_title: "Ruby on Rails Tutorial Sample App"
+  users_controllers:
+    no_user: "no users"
+    user_deleted: "User deleted"
+    welcome: "Welcome to the Sample App"
+  users:
+    user:
+      you_sure: "You sure?"
+      delete: "delete"
+    edit:
+      change: "change"
+    new:
+      sign_up: "Sign up"
+      Create_my_account: "Create my account"
+  sessions:
+     new:
+      new_user: "New user?"
+      home: "Home"
+      log_in: "Log in"
+      sign_up_now: "Sign up now!"
+      Remember: "Remember me on this computer"
   layouts:
+    header:
+      log_in: "Log in"
+      log_out: "log out"
+      help: "Help"
+      setting: "Settings"
     application:
-      base_title: "Ruby on Rails Tutorial Sample App"
       ruby_on_rails: "Ruby on Rails Tutorial"
       sample_application: "sample application."
       sample_app: "sample app"
       help: "Help"
-      log_in: "Log in"
-      log_out: "log out"
       this_will_sign_up: "This will be a signup page for new users."
       sign_up: "Sign up"
       welcome: "Welcome to the Sample App"
@@ -18,17 +41,20 @@ en:
       new: "News"
       about: "About"
       contact: "Contact"
-      sign_up_now: "Sign up now!"
       this_home_page: "This is the home page for the"
       the_form_conains: "the form conains"
-      no_user: "no users"
-      setting: "Settings"
       profile: "Profile"
       user: "Users"
       account: "Account"
-      incalid: "Invalid email/password combination"
-      Remember: "Remember me on this computer"
-      Create_my_account: "Create my account"
+      invalid: "Invalid email/password combination"
       new_user: "New user?"
+      edit_user: "Edit user"
+      update_profile: "Update your profile"
+      save_change: "Save changes"
+      pro_update: "Profile updated"
+      please_login: "Please log in."
+      New: "new"
+      edit: "edit"
+      all_users: "All users"
     header:
-      t_home: "Home"
+        t_home: "Home"

@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
-  extend SessionsHelper
+  include SessionsHelper
   before_action :set_locale
 
   def set_locale

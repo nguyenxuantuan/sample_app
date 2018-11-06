@@ -1,0 +1,60 @@
+vi:
+  users_controller:
+    welcome: "Chào mừng bạn đến với Ứng dụng mẫu"
+    no_user: "không có người dùng"
+    user_deleted: "Xóa người dùng"
+  users:
+    user:
+      delete: "Xóa"
+      you_sure: "YBạn chắc chứ?"
+    edit:
+      change: "thay đổi"
+    new:
+      sign_up: "Đăng Ký"
+      Create_my_account: "Tạo tài khoản của tôi"
+  sessions  :
+    new:
+      new_user: "Người dùng mới?"
+      home: "Trang chủ"
+      log_in: "đăng nhập"
+      sign_up_now: "Đăng ký ngay bây giờ!"
+      Remember: "Nhớ tôi trên máy tính này"
+  layouts:
+    application:
+      base_title: "Ứng dụng mẫu hướng dẫn Ruby on Rails"
+      ruby_on_rails: "Hướng dẫn Ruby on Rails"
+      sample_application: "ứng dụng mẫu"
+      sample_app: "ứng dụng mẫu"
+      help: "Trợ giúp"
+      log_in: "đăng nhập"
+      log_out: "đăng xuất"
+      this_will_sign_up: "Đây sẽ là trang đăng ký cho người dùng mớ"
+      sign_up: "Đăng ký"
+      welcome: "Chào mừng bạn đến với Ứng dụng mẫu"
+      the: "The"
+      by: "bởi"
+      michael: "Michael Hartl"
+      new: "Mới"
+      about: "Giới thiệu"
+      contact: "Liên hệ"
+      sign_up_now: "Đăng ký ngay bây giờ!"
+      this_home_page: "Đây là trang chủ cho"
+      the_form_conains: "biểu mẫu conains"
+      no_user: "không có người dùng"
+      setting: "Cài đặt"
+      profile: "Hồ sơ"
+      user: "Người dùng"
+      account: "tài khoản"
+      incalid: "Kết hợp email / mật khẩu không hợp lệ"
+      Remember: "Nhớ tôi trên máy tính này"
+      new_user: "Người dùng mới?"
+      edit_user: "Chỉnh sửa người dùng"
+      update_profile: "Cập nhật tiểu sử của bạn"
+      save_change: "Lưu thay đổi"
+      pro_update: "Profile updated"
+      please_login: "Please log in."
+      New: "Mới"
+      edit: "Chỉnh sửa"
+      all_users: "Tất cả người dùng"
+    header:
+      t_home: "Trang Chủ"
