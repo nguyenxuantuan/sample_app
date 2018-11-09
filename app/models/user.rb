@@ -6,8 +6,12 @@ class User < ApplicationRecord
   validates :email, presence: true,
     length: {maximum: Settings.num_255}, format: {with:VALID_EMAIL_REGEX},
     uniqueness: true, uniqueness: {case_sensitive: false}
+  validates :password, presence: true, length: {minimum: Settings.num_6},
+    allow_nil: true
   has_secure_password
-  validates :password, presence: true, length: {minimum: Settings.num_6}
+
+  scope :select_user, -> {select :id, :name, :email}
+  scope :order_by_created, -> {order created_at: :asc}
 
   class << self
     def digest string
